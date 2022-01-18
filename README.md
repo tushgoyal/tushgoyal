@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://assets.hongkiat.com/uploads/hello-world-different-programming-languages/r.jpg" alt="Hello world">
+  </p>
+
+
+
+
 <h2 align="center">Hello there! My name is Tushar Goyal. 👋🤓</h2>
 <p align="center">
   I'm currently working as a Senior Technical Analyst :man_technologist: with Publicis Sapient. Hands-on experience in UI/UX designing and development. Skilled Web UI Developer adept at reducing the amount of work required of end-users to navigate the software. Experience to work on Agile and waterfall methodology ✨ .
